@@ -8,6 +8,9 @@ The purpose of this repository is twofold: to enable a first-time user to operat
 
 ---
 
+![ExtrudeX filament recycler](docs/images/extrudex-front.jpg)
+![ExtrudeX filament recycler](docs/images/extrudex-inside.jpg)
+
 ## 1. Scope and affiliation
 
 - ExtrudeX is designed and sold by [Creative3DP](https://creative3dp.com). This repository is independent and is **not affiliated with, endorsed by, or a substitute for** Creative3DP or its products.
