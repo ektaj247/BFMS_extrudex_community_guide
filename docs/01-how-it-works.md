@@ -1,8 +1,11 @@
 # 1. Machine Overview and Principle of Operation
 
+![ExtrudeX filament recycler](docs/images/extrudex-front.jpg)
+![ExtrudeX filament recycler](docs/images/extrudex-inside.jpg)
+
 ## 1.1 Summary
 
-The ExtrudeX is a single-screw filament extruder. It converts shredded thermoplastic waste — typically blended with virgin pellets — into continuous 1.75 mm filament suitable for FDM printing. Feedstock is gravity-fed into a heated barrel, melted, forced through a nozzle, drawn to final diameter by a motorized puller, cooled, and collected on a spool.
+The ExtrudeX is a single-screw filament extruder. It converts shredded thermoplastic waste - typically blended with virgin pellets - into continuous 1.75 mm filament suitable for FDM printing. Feedstock is gravity-fed into a heated barrel, melted, forced through a nozzle, drawn to final diameter by a motorized puller, cooled, and collected on a spool.
 
 This document describes each subsystem in the order material passes through it. It assumes no prior experience with filament extrusion.
 
@@ -16,7 +19,7 @@ Feedstock → Hopper → Barrel & auger (melt) → Nozzle → Cooling zone → P
 
 ### 1.3.1 Hopper (material intake)
 
-A gravity-fed funnel mounted above the barrel inlet. Prepared feedstock — shredded waste, normally mixed with virgin pellets of the same polymer — is loaded here and descends into the barrel under its own weight. The hopper contains no active components; reliable feeding depends entirely on the feedstock being granulated to a small, uniform size (see [Materials & Temperatures](03-materials-and-temperatures.md), section on preparation).
+A gravity-fed funnel mounted above the barrel inlet. Prepared feedstock - shredded waste, normally mixed with virgin pellets of the same polymer - is loaded here and descends into the barrel under its own weight. The hopper contains no active components; reliable feeding depends entirely on the feedstock being granulated to a small, uniform size (see [Materials & Temperatures](03-materials-and-temperatures.md), section on preparation).
 
 ### 1.3.2 Barrel and auger (melting and conveyance)
 
