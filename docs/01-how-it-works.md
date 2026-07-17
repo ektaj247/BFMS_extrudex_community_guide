@@ -1,8 +1,5 @@
 # 1. Machine Overview and Principle of Operation
 
-![ExtrudeX filament recycler](docs/images/extrudex-front.jpg)
-![ExtrudeX filament recycler](docs/images/extrudex-inside.jpg)
-
 ## 1.1 Summary
 
 The ExtrudeX is a single-screw filament extruder. It converts shredded thermoplastic waste - typically blended with virgin pellets - into continuous 1.75 mm filament suitable for FDM printing. Feedstock is gravity-fed into a heated barrel, melted, forced through a nozzle, drawn to final diameter by a motorized puller, cooled, and collected on a spool.
